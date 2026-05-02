@@ -6,7 +6,7 @@ namespace BookstoreManagement.DAL
     public static class DBConnection
     {
         /*private const string CONNECTION_STRING =
-            "Server=DESKTOP-QK0T7QH;" +
+            "Server=.\\SQLEXPRESS;" +
             "Database=QuanLyNhaSach;" +
             "Integrated Security=True;" +
             "TrustServerCertificate=True;" +
